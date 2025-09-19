@@ -1,4 +1,4 @@
-![LPU rental](https://i.pinimg.com/1200x/2e/30/cb/2e30cb060a78a23bf0bac54f53f077ed.jpg)
+
 # LPU Rentals
 
 ## Project Description
