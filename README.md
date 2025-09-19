@@ -1,3 +1,4 @@
+![lpu_rental](./assests/download.jpeg)
 # LPU Rentals
 
 ## Project Description
