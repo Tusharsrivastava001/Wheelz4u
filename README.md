@@ -1,4 +1,5 @@
-![lpu_rental](./assests/download.jpeg)
+<img src="/assests/download.jpeg" alt="Project Banner" width="600" style="display:block; margin:auto; border-radius:16px;"/>
+
 # LPU Rentals
 
 ## Project Description
