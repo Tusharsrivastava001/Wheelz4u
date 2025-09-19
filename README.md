@@ -1,10 +1,9 @@
-<img src="/assests/download.jpeg" alt="Project Banner" width="600" style="display:block; margin:auto; border-radius:16px;"/>
-
+<img src="/assests/download.jpeg"/>
 # LPU Rentals
 
 ## Project Description
 **LPU Rentals** 
-is a web application designed to help LPU students easily book bikes and cars online. The platform allows students to check availability, book vehicles, and manage their bookings through a user-friendly interface. Initially, vehicles will be provided via partner agencies, with plans to build our own fleet in the future.
+is a web application designed to help LPU students easily book bikes and cars online. The platform allows students to check availability, book vehicles, and manage their bookings through a user-friendly interface. Initially, vehicles will be provided via partner agencies, with >plans to build our own fleet in the future.
 
 ## Tech Stack
 - **Frontend:** React.js, Tailwind CSS  
