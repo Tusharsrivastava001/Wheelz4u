@@ -1,5 +1,6 @@
 <img src="/assests/download.jpeg"/>
-# LPU Rentals
+
+## LPU Rentals
 
 ## Project Description
 **LPU Rentals** 
