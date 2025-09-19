@@ -1,3 +1,4 @@
+![LPU rental](https://i.pinimg.com/1200x/2e/30/cb/2e30cb060a78a23bf0bac54f53f077ed.jpg)
 # LPU Rentals
 
 ## Project Description
@@ -25,12 +26,14 @@ is a web application designed to help LPU students easily book bikes and cars on
    ```bash
    git clone https://github.com/yourusername/lpu-rentals.git
 
-2. Navigate throught the folder an install dependenicies
+2. Navigate throught the folder an install dependenicies:
+    ```bash
     cd frontend
     npm install
     cd ../backend
     npm install  
-3. How to run the frontend and the backend
+
+3. How to run the frontend and the backend:
     ```bash
     # Frontend
     cd frontend
