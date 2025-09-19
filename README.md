@@ -26,6 +26,7 @@ is a web application designed to help LPU students easily book bikes and cars on
    git clone https://github.com/yourusername/lpu-rentals.git
 
 2. Navigate throught the folder an install dependenicies
+    ```bash
     cd frontend
     npm install
     cd ../backend
