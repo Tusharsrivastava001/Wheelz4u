@@ -24,3 +24,18 @@ is a web application designed to help LPU students easily book bikes and cars on
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/lpu-rentals.git
+
+2. Navigate throught the folder an install dependenicies
+    cd frontend
+    npm install
+    cd ../backend
+    npm install  
+3. How to run the frontend and the backend
+    ```bash
+    # Frontend
+    cd frontend
+    npm start
+
+    # Backend
+    cd backend
+    node server.js
